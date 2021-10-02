@@ -11,7 +11,7 @@ inference_times = 5
 img_target_size = 64
 
 # エポック数
-epochs = 10000
+epochs = 1000
 
 # バッチサイズ数
 batch_size = 64
